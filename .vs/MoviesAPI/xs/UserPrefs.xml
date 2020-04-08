@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{3E4272B5-1546-4395-9C05-529C53D817BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Entities/Movie.cs" Line="19" Column="2" />
+      <File FileName="Services/MoviesDbContext.cs" Line="21" Column="2" />
+      <File FileName="Services/MoviesDbContextExtensions.cs" Line="20" Column="23" />
+      <File FileName="Startup.cs" Line="10" Column="26" />
+      <File FileName="Controller/MoviesController.cs" Line="16" Column="22" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controller/HomeController.cs" Line="6" Column="13" />
+      <File FileName="Views/Home/Index.cshtml" Line="6" Column="10" />
+      <File FileName="Source/app.js" Line="18" Column="21" />
+      <File FileName="wwwroot/package.json" Line="9" Column="2" />
+      <File FileName="wwwroot/webpack.config.js" Line="23" Column="1" />
+      <File FileName="wwwroot/dist/bundle.js" Line="12" Column="2" />
+      <File FileName="wwwroot/source/movieList.jsx" Line="7" Column="33" />
+      <File FileName="MoviesAPI.csproj" Line="47" Column="1" />
+      <File FileName="wwwroot/source/movie.jsx" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoviesAPI" expanded="True">
+            <Node name="MoviesAPI" expanded="True">
+              <Node name="Controller" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="dist" expanded="True" />
+                <Node name="source" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoviesAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

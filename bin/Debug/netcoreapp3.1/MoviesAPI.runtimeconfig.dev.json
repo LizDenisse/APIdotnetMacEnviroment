@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/lizhitches/.dotnet/store/|arch|/|tfm|",
+      "/Users/lizhitches/.nuget/packages"
+    ]
+  }
+}
